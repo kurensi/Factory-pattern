@@ -1,0 +1,25 @@
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.exe
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.deps.json
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.runtimeconfig.json
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.runtimeconfig.dev.json
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.dll
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.pdb
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.csprojAssemblyReference.cache
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.AssemblyInfoInputs.cache
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.AssemblyInfo.cs
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.dll
+C:\Users\Djordje\source\repos\FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.exe
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.deps.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.runtimeconfig.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.runtimeconfig.dev.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\bin\Debug\netcoreapp3.1\FactoryMuster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.AssemblyInfoInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.AssemblyInfo.cs
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.csproj.CoreCompileInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.csproj.AssemblyReference.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 4 FactoryMuster\FactoryMuster\obj\Debug\netcoreapp3.1\FactoryMuster.GeneratedMSBuildEditorConfig.editorconfig
